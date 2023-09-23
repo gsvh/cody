@@ -1,0 +1,24 @@
+[
+  [
+    { "position": { "x": 0, "y": 0 }, "type": "color", "color": "yellow.200" },
+    { "position": { "x": 1, "y": 1 }, "type": "color", "color": "yellow.200" },
+    { "position": { "x": 2, "y": 2 }, "type": "color", "color": "yellow.200" },
+    { "position": { "x": 0, "y": 0 }, "type": "empty", "color": "transparent" },
+    { "position": { "x": 1, "y": 1 }, "type": "empty", "color": "transparent" },
+    { "position": { "x": 2, "y": 2 }, "type": "empty", "color": "transparent" },
+    { "position": { "x": 0, "y": 0 }, "type": "color", "color": "green.200" },
+    { "position": { "x": 1, "y": 1 }, "type": "empty", "color": "transparent" },
+    { "position": { "x": 2, "y": 2 }, "type": "color", "color": "red.200" }
+  ],
+  [
+    { "position": { "x": 0, "y": 0 }, "type": "empty", "color": "transparent" },
+    { "position": { "x": 1, "y": 1 }, "type": "empty", "color": "transparent" },
+    { "position": { "x": 2, "y": 2 }, "type": "empty", "color": "transparent" },
+    { "position": { "x": 0, "y": 0 }, "type": "empty", "color": "transparent" },
+    { "position": { "x": 1, "y": 1 }, "type": "empty", "color": "transparent" },
+    { "position": { "x": 2, "y": 2 }, "type": "empty", "color": "transparent" },
+    { "position": { "x": 0, "y": 0 }, "type": "empty", "color": "transparent" },
+    { "position": { "x": 1, "y": 1 }, "type": "empty", "color": "transparent" },
+    { "position": { "x": 2, "y": 2 }, "type": "empty", "color": "transparent" }
+  ]
+]
