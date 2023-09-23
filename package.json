@@ -2,8 +2,8 @@
   "name": "cody",
   "private": true,
   "version": "0.0.0",
-  "engine": {
-    "node": ">=16"
+  "engines": {
+    "node": ">=18"
   },
   "type": "module",
   "scripts": {
