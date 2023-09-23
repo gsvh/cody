@@ -2,6 +2,9 @@
   "name": "cody",
   "private": true,
   "version": "0.0.0",
+  "engine": {
+    "node": ">=18.14.0"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",
