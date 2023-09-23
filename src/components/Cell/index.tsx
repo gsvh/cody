@@ -7,6 +7,7 @@ type Props = {
   color: string
 }
 export const Cell = ({ type, color }: Props) => {
+  console.log(type)
   return (
     <Box p={2}>
       <Box
